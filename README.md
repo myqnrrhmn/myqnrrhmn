@@ -52,17 +52,17 @@ I thrive in both **independent** and **collaborative** environments, constantly 
 
 - ☕ **Coffee** — fuels my creativity  
 - 📖 **Reading** — books on psychology, tech & productivity  
-- ✍️ **Writing** — documenting, blogging, and sharing insights  
+- ✍️ **Writing** — documenting and sharing insights  
 
 ---
 
 ### 📲 Connect With Me
 
 <p>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/noeryx" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/m-yuqi-nurrohman-998b06358" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
