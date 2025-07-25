@@ -9,6 +9,8 @@ I'm a passionate **Full Stack Web Developer** with over **4 years** of experienc
 I enjoy building secure, scalable, and performant web applications — from backend APIs to beautiful frontends.  
 I thrive in both **independent** and **collaborative** environments, constantly pushing myself to learn and grow.
 
+I find great satisfaction in **exploring the depths of programming languages** — their paradigms, elegance, and underlying mechanics — rather than solely relying on frameworks. Understanding the core empowers me to build with intention, not just convention.
+
 - 📍 Based in **West Java, Indonesia**  
 - 📫 Reach me at: [myuqinoor@gmail.com](mailto:myuqinoor@gmail.com)
 
@@ -62,6 +64,7 @@ I thrive in both **independent** and **collaborative** environments, constantly 
 - ☕ **Coffee** — fuels my creativity  
 - 📖 **Reading** — books on psychology, tech & productivity  
 - ✍️ **Writing** — documenting and sharing insights  
+- 🍳 **Cooking** — experimenting with recipes and flavors in the kitchen  
 
 ---
 
